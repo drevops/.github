@@ -2,7 +2,7 @@
 
 > DevOps ecosystem for Drupal
 
-Drupal project template and tooling to speed-up DevOps when working on Drupal
+Drupal project scaffold and tooling to speed-up DevOps when working on Drupal
 sites.
 
 ## Repositories
