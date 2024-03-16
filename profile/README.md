@@ -5,8 +5,6 @@
   </picture>
 </div>
 
-<h1 align="center">DrevOps</h1>
-
 <h3 align="center">Drupal project scaffold and tooling to work with Drupal sites.</h3>
 
 ## Drupal project scaffold
