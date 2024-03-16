@@ -5,7 +5,7 @@
   </picture>
 </div>
 
-<h3 align="center">Drupal project scaffold and tooling to work with Drupal sites.</h3>
+<h3 align="center">Drupal project scaffold and tooling to work with Drupal sites</h3>
 
 ## Drupal project scaffold
 
@@ -40,9 +40,10 @@
 We provide paid support for DrevOps scaffold and whole ecosystem:
 
 - New and existing project onboarding
-- Support plans with SLAs
+- Updates to the latest version of the Scaffold
+- Support and maintenance plans with SLAs
 - Priority feature implementation
-- Updates to the latest version of the scaffold
 - DevOps consulting and custom implementations
+- Processes improvements
 
 Contact us at support@drevops.com
