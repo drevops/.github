@@ -38,7 +38,7 @@ sites</h3>
 
 ## Support
 
-We provide paid support for DrevOps scaffold and whole ecosystem:
+We provide professional services support for DrevOps scaffold and the whole ecosystem:
 
 - New and existing project onboarding
 - Updates to the latest version of the Scaffold
