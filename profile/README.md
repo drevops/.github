@@ -5,7 +5,9 @@
   </picture>
 </div>
 
-<h3 align="center">We provide Drupal development and DevOps services using an open-source ecosystem for fast and reliable Drupal website development</h3>
+<h3 align="center">We provide Drupal development and DevOps services<br/>
+using an open-source ecosystem<br/>
+for fast and reliable Drupal website development</h3>
 
 ## Drupal project scaffold
 
