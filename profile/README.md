@@ -5,8 +5,7 @@
   </picture>
 </div>
 
-<h3 align="center">Drupal project scaffold and tooling to work with Drupal
-sites</h3>
+<h3 align="center">We provide Drupal development and DevOps services using an open-source ecosystem for fast and reliable Drupal website development</h3>
 
 ## Drupal project scaffold
 
