@@ -5,8 +5,9 @@
   </picture>
 </div>
 
-<p align="center">We provide <strong>Drupal development</strong> and <strong>DevOps services</strong><br> using an open-source ecosystem<br>for <strong>fast</strong> and <strong>reliable</strong> Drupal website development</p>
-
+<h3 align="center">We provide <strong>Drupal development</strong> and <strong>DevOps services</strong><br> using an open-source ecosystem<br>for <strong>fast</strong> and <strong>reliable</strong> Drupal website development</h3>
+<br/>
+<br/>
 ## Vortex - Drupal project template
 
 | Project                                                                 | Description                                                                               | Issues                                                                                                                                                        | PRs                                                                                                                                                                    | Version                                                                                                        | CI Status                                                                                                                                                                                                                                                                                  |
